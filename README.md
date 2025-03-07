@@ -1,2 +1,2 @@
-# Lakeland_Lakes
+# Lakeland Lakes SQL Database & Query System
 A relational database used to analyze Lakeland lake statistics and gator sightings, implementing complex SQL queries, data validation, and Python-based database management using sqlite3.
